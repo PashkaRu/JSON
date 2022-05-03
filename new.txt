@@ -3,7 +3,7 @@
 "name":"Pavel",
 "patronymic":"Viktorovich",
 "age":"40",
-"number of pets":"3",
+"number of pets":"2",
 "the salary":"500 $"
 
 }
