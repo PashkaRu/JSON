@@ -1,8 +1,0 @@
-{
-	"name":"Pavel",
-	"last name":"Rugaev"
-
-
-
-
-}
