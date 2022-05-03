@@ -1,0 +1,11 @@
+{
+"last name":"Rugaev",
+"name":"Pavel",
+"patronymic":"Viktorovich",
+"age":"40",
+"number of pets":"3",
+"the salary":"500 $"
+
+}
+
+
